@@ -24,9 +24,7 @@
 hs_err_pid*
 
 # others
-target/
-vertx-zero/zero-async/target
-vertx-zero/zero-basic/target
+*/target
 logs
 file-uploads
 .idea
